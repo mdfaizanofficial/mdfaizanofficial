@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdfaizanofficial&show_icons=true&locale=en" alt="mdfaizanofficial" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdfaizanofficial&" alt="mdfaizanofficial" /></p>
+<p><img align="center" src="https://leetcard.jacoblin.cool/mdfaizzz?ext=heatmap" alt="mdfaizanofficial" /></p>
