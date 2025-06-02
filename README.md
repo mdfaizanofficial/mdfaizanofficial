@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/faizanstwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faizanstwt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mdfaizanofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdfaizanofficial" height="30" width="40" /></a>
-<a href="https://instagram.com/md_faizan_official0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_faizan_official0" height="30" width="40" /></a>
+<a href="https://www.instagram.com/faizan_furqan_ahmad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faizan_furqan_ahmad" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mdfaizzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdfaizzz" height="30" width="40" /></a>
 </p>
 
