@@ -3,9 +3,9 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/4b4b4e2e-6846-480b-8520-6c784d18722b">
 
-- 🔭 I’m currently working on [Quiz-App](https://github.com/mdfaizanofficial/quiz-app.git) & [LeetCode](https://www.leetcode.com/mdfaizzz)
+- 🔭 I’m currently working on [HRMS](https://github.com/mdfaizanofficial/hr_management) & [LeetCode](https://www.leetcode.com/mdfaizzz)
 
-- 🌱 I’m currently learning **DSA with Spring & Spring-Boot**
+- 🌱 I’m currently learning **DSA with Django REST**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mdfaizanofficial/](https://www.linkedin.com/in/mdfaizanofficial/)
 
